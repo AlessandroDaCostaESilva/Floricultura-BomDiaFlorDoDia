@@ -63,7 +63,7 @@ body{
 .gradient{
     background-image: linear-gradient(to top, #fca311, transparent);
     height: 60px;
-    width: cover;
+    width: 100%;
 }
 
 .product{

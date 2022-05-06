@@ -42,4 +42,27 @@
     .botao-card{
         left: 35px;
     }
+
+    .icons-link ul li{
+        margin: 5px;
+    }
+
+    .icons-link ul li img{
+        width: 35px;
+    }
+}
+
+@media (max-width: 460px){
+    .conteiner-card .card .img-card{
+        left: 22px;
+    }
+    .img-card img{
+        width: 30vh;
+    }
+
+    .botao-card{
+        top: -35px;
+        left: 45px;
+        width: 25vh;
+    }
 }
