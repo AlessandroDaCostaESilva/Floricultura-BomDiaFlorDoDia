@@ -1,0 +1,1 @@
+window.alert('Ola! seja bem-vindo(a)')

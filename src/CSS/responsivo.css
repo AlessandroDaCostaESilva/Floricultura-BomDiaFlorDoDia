@@ -1,0 +1,45 @@
+@media (max-width: 750px){
+   header nav{
+        display: none;
+    }
+
+    header .responsivo img{
+        display: inline-block;
+        width: 70%;
+        cursor: pointer;
+    }
+
+    header{
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+
+    .about-us{
+        font-size: 25px;
+        width: 80%;
+    }
+}
+
+@media (max-width: 550px){
+    .conteiner-card .card .img-card{
+        left: 4.5vh;
+        top: -7vh;
+    }
+
+    .img-card img{
+        width: 35vh;
+    }
+
+    .card-conteudo h3{
+        top: -7vh;
+    }
+    
+    .card-conteudo p{
+        top: -50px;
+        left: 35px;
+    }
+
+    .botao-card{
+        left: 35px;
+    }
+}
